@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RestartButton
+comment1.params=
+comment1.target=RestartButton()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Method\ act()\ mendeteksi\ klik.\r\n
+comment3.params=
+comment3.target=void\ onClick()
+numComments=4

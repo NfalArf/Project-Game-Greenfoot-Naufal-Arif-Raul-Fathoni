@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DigitActor
+comment0.text=\r\n\ Aktor\ untuk\ menampilkan\ satu\ digit\ angka\ (0-9)\ dari\ aset.\r\n
+comment1.params=digit
+comment1.target=DigitActor(int)
+comment1.text=\r\n\ Constructor.\r\n
+comment2.params=
+comment2.target=int\ getDigitWidth()
+numComments=3

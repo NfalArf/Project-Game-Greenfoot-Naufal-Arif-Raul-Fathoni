@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PauseMenuPopup
+comment0.text=\r\n\ Aktor\ pop-up\ yang\ muncul\ saat\ game\ dipause\ via\ MenuButton.\r\n\ Menampilkan\ tombol\ Restart\ dan\ Home.\r\n
+comment1.params=
+comment1.target=PauseMenuPopup()
+comment1.text=\r\n\ Constructor\ untuk\ PauseMenuPopup.\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Dipanggil\ saat\ aktor\ ini\ ditambahkan\ ke\ dunia.\r\n\ Menambahkan\ tombol\ Restart\ dan\ Home.\r\n
+comment3.params=
+comment3.target=void\ closePopup()
+comment3.text=\r\n\ Method\ untuk\ menghapus\ pop-up\ ini\ DAN\ tombol-tombolnya.\r\n\ Dipanggil\ oleh\ MenuButton\ atau\ tombol\ itu\ sendiri.\r\n
+comment4.params=
+comment4.target=void\ act()
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment0.text=\r\n\ Ini\ adalah\ "Home\ Page"\ atau\ layar\ menu\ utama.\r\n
+comment1.params=
+comment1.target=StartScreen()
+comment1.text=\r\n\ Constructor\ untuk\ StartScreen.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Method\ 'act'\ -\ Mengecek\ input.\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ Menyiapkan\ layar\ dengan\ menambahkan\ semua\ Aktor\ teks.\r\n
+comment4.params=
+comment4.target=void\ loadHighScore()
+comment5.params=
+comment5.target=void\ showHighScore()
+comment6.params=
+comment6.target=int\ getHighScore()
+numComments=7

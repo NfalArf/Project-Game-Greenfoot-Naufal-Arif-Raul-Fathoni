@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PowerPellet
+comment0.text=\r\n\ Power\ Pellet\ (titik\ besar)\ yang\ dimakan\ Pacman.\r\n
+comment1.params=
+comment1.target=PowerPellet()
+comment1.text=\r\n\ Constructor\ untuk\ PowerPellet.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Method\ act()\ -\ Mengatur\ logika\ timer\ respawn.\r\n
+comment3.params=
+comment3.target=boolean\ eat()
+comment3.text=\r\n\ Dipanggil\ oleh\ Pacman\ saat\ menyentuh\ Power\ Pellet.\r\n
+comment4.params=
+comment4.target=void\ respawn()
+comment4.text=\r\n\ Memunculkan\ kembali\ Power\ Pellet.\r\n
+comment5.params=
+comment5.target=boolean\ isEaten()
+comment5.text=\r\n\ Mengecek\ status.\r\n
+numComments=6

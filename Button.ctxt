@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Class\ dasar\ untuk\ tombol\ yang\ bisa\ diklik.\r\n\ Menampilkan\ teks\ dan\ bereaksi\ terhadap\ mouse.\r\n
+comment1.params=buttonText
+comment1.target=Button(java.lang.String)
+comment1.text=\r\n\ Constructor\ untuk\ Button.\r\n
+comment2.params=
+comment2.target=void\ updateImage()
+comment2.text=\r\n\ Membuat\ atau\ memperbarui\ gambar\ tampilan\ tombol.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Method\ act()\ -\ Dijalankan\ terus\ menerus.\r\n\ Cek\ posisi\ mouse\ dan\ klik.\r\n
+comment4.params=
+comment4.target=void\ onClick()
+comment4.text=\r\n\ Aksi\ yang\ dilakukan\ saat\ tombol\ diklik.\r\n
+numComments=5

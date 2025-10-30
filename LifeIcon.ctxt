@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LifeIcon
+comment0.text=\r\n\ Aktor\ untuk\ menampilkan\ ikon\ nyawa\ Pac-Man.\r\n
+comment1.params=
+comment1.target=LifeIcon()
+comment1.text=\r\n\ Constructor\ untuk\ LifeIcon.\r\n\ Mengatur\ gambar\ ikon\ nyawa.\r\n
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GhostPinky
+comment0.text=\r\n\ Hantu\ Pinky\ (Pink).\r\n
+comment1.params=
+comment1.target=GhostPinky()
+comment1.text=\r\n\ Constructor\ untuk\ Pinky.\r\n
+comment2.params=
+comment2.target=boolean\ decideMove()
+numComments=3

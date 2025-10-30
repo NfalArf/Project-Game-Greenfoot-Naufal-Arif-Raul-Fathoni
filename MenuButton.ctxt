@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MenuButton
+comment0.text=\r\n\ Tombol\ menu\ (garis\ tiga).\r\n\ Saat\ diklik\:\ Pause\ game,\ tampilkan\ tombol\ Restart/Home.\r\n\ Saat\ diklik\ lagi\:\ Resume\ game,\ sembunyikan\ tombol.\r\n
+comment1.params=
+comment1.target=MenuButton()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Method\ act()\ -\ Mengecek\ klik\ mouse.\r\n
+comment3.params=
+comment3.target=void\ toggleMenu()
+comment3.text=\r\n\ Menampilkan/menyembunyikan\ tombol\ &\ Pause/Resume\ game.\r\n
+comment4.params=
+comment4.target=void\ closeMenuAndStop()
+comment4.text=\r\n\ Method\ ini\ bisa\ dipanggil\ dari\ luar\ (misal\:\ saat\ Game\ Over)\r\n\ untuk\ memastikan\ menu\ tertutup\ dan\ game\ berhenti.\r\n
+numComments=5

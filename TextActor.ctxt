@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TextActor
+comment0.text=\r\n\ Aktor\ ini\ menampilkan\ gambar\ statis\ (huruf,\ ikon,\ teks\ jadi).\r\n
+comment1.params=imageName
+comment1.target=TextActor(java.lang.String)
+comment1.text=\r\n\ Constructor\ yang\ menerima\ nama\ file\ gambar.\r\n
+comment2.params=
+comment2.target=TextActor()
+comment2.text=\r\n\ Constructor\ Kosong\r\n
+comment3.params=
+comment3.target=int\ getTextWidth()
+numComments=4

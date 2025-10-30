@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\ Aktor\ ScoreBoard.\ Mengatur\ huruf\ "SCORE\ "\ dan\ DigitActor.\r\n\ Posisi\ di\ kiri\ bawah.\r\n
+comment1.params=
+comment1.target=ScoreBoard()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=newScore
+comment3.target=void\ updateScore(int)
+comment3.text=\r\n\ Memperbarui\ tampilan\ skor\ (huruf\ +\ digit).\r\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameOverScreen
+comment0.text=\r\n\ Aktor\ pop-up\ yang\ menampilkan\ layar\ Game\ Over\ dan\ tombol.\r\n
+comment1.params=
+comment1.target=GameOverScreen()
+comment1.text=\r\n\ Constructor\ untuk\ GameOverScreen.\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Dipanggil\ saat\ aktor\ ini\ ditambahkan\ ke\ dunia.\r\n
+comment3.params=
+comment3.target=void\ stopMusic()
+numComments=4

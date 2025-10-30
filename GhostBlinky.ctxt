@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GhostBlinky
+comment0.text=\r\n\ Hantu\ Blinky\ (Merah).\r\n
+comment1.params=
+comment1.target=GhostBlinky()
+comment1.text=\r\n\ Constructor\ untuk\ Blinky.\r\n
+comment2.params=
+comment2.target=boolean\ decideMove()
+comment2.text=\r\n\ Logika\ Blinky\:\ Pilih\ arah\ terdekat\ ke\ target.\r\n
+numComments=3

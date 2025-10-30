@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pellet
+comment0.text=\r\n\ Pellet\ kecil\ yang\ dimakan\ Pacman.\r\n
+comment1.params=
+comment1.target=Pellet()
+comment1.text=\r\n\ Constructor\ untuk\ Pellet.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Method\ act()\ -\ Dijalankan\ terus\ menerus\ oleh\ Greenfoot.\r\n\ Mengatur\ logika\ timer\ respawn.\r\n
+comment3.params=
+comment3.target=boolean\ eat()
+comment3.text=\r\n\ Method\ ini\ dipanggil\ oleh\ Pacman\ saat\ dia\ menyentuh\ pellet\ ini.\r\n
+comment4.params=
+comment4.target=void\ respawn()
+comment4.text=\r\n\ Method\ ini\ dipanggil\ oleh\ 'act()'\ saat\ timer\ respawn\ habis.\r\n\ Memunculkan\ kembali\ pellet.\r\n
+comment5.params=
+comment5.target=boolean\ isEaten()
+comment5.text=\r\n\ Method\ untuk\ mengecek\ status\ apakah\ pellet\ sedang\ dimakan\ (tak\ terlihat).\r\n
+numComments=6
